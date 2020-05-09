@@ -1,0 +1,2 @@
+# template_env_redmine
+Redmine環境のセットアップテンプレート
